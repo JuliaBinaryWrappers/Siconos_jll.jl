@@ -1,0 +1,249 @@
+[[Siconos]]
+arch = "aarch64"
+git-tree-sha1 = "1fceed31624e1f4dc50126a659743ad03ae1766b"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Siconos.download]]
+    sha256 = "a6affe56216b86b54e5b7b8418d3546308aba74056db0f0cbaea37584153ca54"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "aarch64"
+git-tree-sha1 = "4bf887e581e432b3fccaf4e0d4e102d4873a982b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "a3a337f2aff54c9f808f48526a33a4034fbda17e37beddd5c17f061b8719527f"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "aarch64"
+git-tree-sha1 = "766ea05d5aa041f8bb5f7119024fa6ac4501b894"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "8c60cb8999847bab8c382aa42501e3af0ea3bc3c9b33170475dd18e6a4fe9071"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "aarch64"
+git-tree-sha1 = "2040d26bb5787ace71e95066445d67396c37aa5f"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "cb7c96d3165b3b2b43eec5c5297a147a0908731498dc52e616d5cabd7c65de42"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "56b0d967f0cdd0f606622139e8d4a59d909f341d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "a758772c825c4f670a7787a6dfa9b76bda568f61e16e67b4c6c6a0da3d34ff87"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5125e96857462ef1df23c54363ccf72885a129a8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "3d625f5857859c9935732ce941504e4dacefbff7028ec4ce8e81aadb0b6d814c"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "55c242029bdc207c7cd76f81ba0d7b82ab029ada"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "81148d1387a80b846b2b23823604055945a97e3f5f8ba3cd2403bef11071a974"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bb302318399458ede04b0773fc638db377e050a4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "625395bc9ddba8658252bf628772e5dd3d0cdfe7ec5d31a035d69b655376393b"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d40198981d40aff0e694957220c6fdcd52bb2c1c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "f9c1450d7cc70d0d75d335da6debedede3428523151053d30aa8c25b308c6710"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "976e261e103212cab77539ff8069adcbb1d64d5e"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "5df28c07747433881f3253c89193b5ff228640fb720463580ce86dd2057cbef0"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "i686"
+git-tree-sha1 = "590cd839cd0c4ed4b8c563998be53e9557556432"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "25ea61cc62bc30f3a8e0d4e7dacb89d154d7be6f857b2bcbc67063341b232158"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "i686"
+git-tree-sha1 = "06406fa0da327c29d74aa9c4c901313c92afac0e"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "642734095cbc359ff4c8c9851b1c3d5d48bb62ab521c76df91a859a79d3adafc"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "i686"
+git-tree-sha1 = "069841f775889230d4e5770a06c912d3d2c5a7d8"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "3613c6270bc2bc62ccefcd4cfbca7133be56c7a686418c55de4468b49acb9c74"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "powerpc64le"
+git-tree-sha1 = "3a741b9e7f3d7cdfb0626cc3cb0001f3e4c15c84"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "ece7555a454c8edd0d190a24d4e4bb79fb04227f7f3293c2b5067fa142c93c03"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "powerpc64le"
+git-tree-sha1 = "1dd0fc1e94b3428e8ad1c17011c60bb5646cfff8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "ce5330fd5df437b85f5c7d8dd4c325dd4de3fa5abf34b65da94d4889c4904c94"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "powerpc64le"
+git-tree-sha1 = "8dff3bdff858fde6927c7d1317f68fc8eed768de"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "78338aab013b407a93f9c317e95798134b5da97594996eeac544a8e7bb19132f"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "9545e1c748793d2def212b299e2e3d1883eebcc7"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[Siconos.download]]
+    sha256 = "c8f5488ba992ad01b38afe68a205a2e150b177ae08f433f510396f154a6da173"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "ea03e26588a77391eb5aae4cfb2154924db5e019"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[Siconos.download]]
+    sha256 = "2ccd45dbb957738ccb404b2a541d4b7455c20d2570e33a9fd1453ae12c02738b"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "479312ef7c05b59d0577a6a2afc85b9ba3fe21a6"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[Siconos.download]]
+    sha256 = "19d8cb8719893d486ea63c3f52493f7c984e13941a7a4b050fb888fb689838b0"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "3d93f9bc0de1254a09aae2ed72894d0e8854ec88"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "9af5250bb06a702621c6950ea2f7d22c7ac85917a935587ddd6816ea81ede038"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "6338c51e182f3998e809bc0a5f4ac862499ed72f"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "0de54ae687d368987388c99d3b5d896d0e424d08188a3d3a5784e449b1917c4e"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "0e7055cb1d3204487fa2d4c4a56334e798c08b70"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[Siconos.download]]
+    sha256 = "c60cebff31ac644d8bf2322e02cfdc7f468d3d9b10493b89d6fe3c2abf89f392"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "859a0de66a925b486144d30531ec90c68085dcf2"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[Siconos.download]]
+    sha256 = "d07c4f824b968beae7013992bb0d5a1414e2080856f8086812b7b0012a28c5bc"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "305b45506579220e776a96332374e82ef31a1a55"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[Siconos.download]]
+    sha256 = "475b68595eeb54b14d8df395033e1e0af4df03ec1a7a7dfd4293a9d68815c066"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[Siconos]]
+arch = "x86_64"
+git-tree-sha1 = "f4ae344b734d552a9cb72a4836b1c839fe44f7e7"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[Siconos.download]]
+    sha256 = "fdf9dcc488320f6153d292818d143c1f6a1f7885bcdb693ecb1d20f5abda1d9d"
+    url = "https://github.com/JuliaBinaryWrappers/Siconos_jll.jl/releases/download/Siconos-v4.4.0+0/Siconos.v4.4.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
